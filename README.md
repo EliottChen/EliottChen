@@ -3,6 +3,14 @@ I am a gameplay programmer and tools programmer passionate about learning new co
 I have some of my works that are open source, feel free to study them, or even contribute!
 
 I have a website showcasing all my projects (might be a little outdated): https://eliottchen.github.io/Portfolio/
+
+## What I use to make games
+- Unreal Engine 5 both Blueprint and C++
+- Unity Engine
+- Godot Engine in both GDScript and C#
+- Raylib (sometimes for little experiments)
+- and my tools :D
+
 <!--
 **EliottChen/EliottChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
