@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Make tools, not games!
+I am a gameplay programmer and tools programmer passionate about learning new concepts.
+I have some of my works that are open source, feel free to study them, or even contribute!
 <!--
 **EliottChen/EliottChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
